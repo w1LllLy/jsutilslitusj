@@ -11,7 +11,16 @@ and he is severly underrated in reach of followers in rt social media, like ever
 very optimized sha256 in javascript, using Uint8Array and Uint32Array, bit funcs utf8, etc
 
 
-# Buy Us the Warp Drive Development, if you want to! Appreciated, very much so.
+# Buy Us the Warp Drive Development, if you want to! 
+Appreciated, very much so.
+
+### EVM : 
+
+### 0xD3B5BC3d412967943a5a9ab793f1De63FC47A00e
+
+
+
+
 
 Ultimately, i try to become crypto Millionaire to fund the research, his and mine, maybe yours someday. The good stuff, the fun and useful. The new, not another clone of generic Defi, Social Media App, something cute and privacy and fast and useful to earn funding for the Drive.
 
